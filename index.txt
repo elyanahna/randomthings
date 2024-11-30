@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Eliana</title>
+  <title>Random Things</title>
   <link rel="stylesheet" href="eport.css">
 </head>
 <body>
@@ -18,7 +18,7 @@
 <h2>Play me! </h2>
 
 <audio controls>
-<source src="C:\Users\Jesusa Cuenca\Downloads\audio (1).mp3" type="audio/mp3">
+<source src="audio (1).mp3" type="audio/mp3">
 </audio>
 
 <p class="head">
@@ -27,32 +27,32 @@
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\467559001_582760801181785_2979951337320710392_n.jpg" target="_blank"> RANDOM .1 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="467559001_582760801181785_2979951337320710392_n.jpg" target="_blank"> RANDOM .1 </a> </p> </td>
 </tr>
 </table>
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\462558705_3343226835812885_6126317733898217741_n.jpg" target="_blank"> RANDOM .2 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="462558705_3343226835812885_6126317733898217741_n.jpg" target="_blank"> RANDOM .2 </a> </p> </td>
 </tr>
 </table>
 
 
 <table border="7" align="center">
 <tr>
-<td> <p style="font-size:25px;"> <a href="C:\Users\Jesusa Cuenca\Downloads\468754480_27687485510899066_4315716567077092026_n.mp4" target="_blank"> RANDOM .3 </a> </p> </td>
+<td> <p style="font-size:25px;"> <a href="468754480_27687485510899066_4315716567077092026_n.mp4" target="_blank"> RANDOM .3 </a> </p> </td>
 </tr>
 </table>
 
 
 
-<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="850" cellpadding="7" cellspacing="9" align="center">
+<table border="7" background="purple.jpg" width="850" cellpadding="7" cellspacing="9" align="center">
 <tr height="40" bgcolor="pink">
 <th><b> Thats all for my second E-Portfolio!</b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\462570992_1627888821100436_5251548361305593983_n.jpg"width="800" height="450">
+<img src="462570992_1627888821100436_5251548361305593983_n.jpg"width="800" height="450">
 </td>
 </tr>
 </table>
